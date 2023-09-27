@@ -1,4 +1,5 @@
-Programmed GPIO LED components on the MKII BoosterPack to receive pulse width modulation signals from a 16-bit timer whose duty cycles were incremented to create a full spectrum of color emission on the board
+Programmed GPIO LED components on the MKII BoosterPack to receive pulse width modulation signals from a 16-bit timer whose duty cycles were incremented to create a full spectrum of color emission on the board.
+
 Here are some additional notes I made while designing the project:
 
 frequency with 20 clock divider = 50,000 Hz
